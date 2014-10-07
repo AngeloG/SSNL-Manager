@@ -1,0 +1,12 @@
+Content/SeriousSamHD/Levels/01_SouthAmerica/1_01_Palenque.wld
+Content/SeriousSamHD/Levels/01_SouthAmerica/1_02_Palenque.wld
+Content/SeriousSamHD/Levels/01_SouthAmerica/1_03_Teotihuacan.wld
+Content/SeriousSamHD/Levels/01_SouthAmerica/1_04_Teotihuacan.wld
+Content/SeriousSamHD/Levels/01_SouthAmerica/1_05_Teotihuacan.wld
+Content/SeriousSamHD/Levels/02_Persia/2_01_Ziggurat.wld
+Content/SeriousSamHD/Levels/02_Persia/2_02_Persepolis.wld
+Content/SeriousSamHD/Levels/02_Persia/2_03_Persepolis.wld
+Content/SeriousSamHD/Levels/02_Persia/2_04_TowerOfBabylon.wld
+Content/SeriousSamHD/Levels/03_Medieval/3_01_GothicCastle.wld
+Content/SeriousSamHD/Levels/03_Medieval/3_02_LandOfDamned.wld
+Content/SeriousSamHD/Levels/03_Medieval/3_03_CorridorOfDeath.wld

@@ -1,0 +1,10 @@
+Content/SeriousSamHD/Levels/Z5_Other/BrkeenChevap.wld
+Content/SeriousSamHD/Levels/Z5_Other/Fortress.wld
+Content/SeriousSamHD/Levels/Z5_Other/Hole.wld
+Content/SeriousSamHD/Levels/Z5_Other/JumpOver.wld
+Content/SeriousSamHD/Levels/Z5_Other/MedievalRage.wld
+Content/SeriousSamHD/Levels/Z5_Other/RoyalPurgatory.wld
+Content/SeriousSamHD/Levels/Z5_Other/SunPalace.wld
+Content/SeriousSamHD/Levels/Z5_Other/TheLostTomb.wld
+Content/SeriousSamHD/Levels/Z5_Other/WeGotSkullsNBonesToo.wld
+Content/SeriousSamHD/Levels/Z5_Other/Yodeller.wld

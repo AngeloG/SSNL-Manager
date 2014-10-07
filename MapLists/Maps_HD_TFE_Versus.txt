@@ -1,0 +1,7 @@
+Content/SeriousSamHD/Levels/Z3_Other/DesertTemple.wld
+Content/SeriousSamHD/Levels/Z3_Other/Flood.wld
+Content/SeriousSamHD/Levels/Z3_Other/Gvide.wld
+Content/SeriousSamHD/Levels/Z3_Other/HoodlumsBackyard.wld
+Content/SeriousSamHD/Levels/Z3_Other/Horus_Web.wld
+Content/SeriousSamHD/Levels/Z3_Other/LittleTrouble.wld
+Content/SeriousSamHD/Levels/Z3_Other/SimplyOne.wld

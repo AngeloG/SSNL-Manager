@@ -1,0 +1,49 @@
+body {
+	font-family: Sans-serif;
+	margin: 0px;
+}
+
+a {
+	color: #44F;
+}
+
+#logo {
+	font-size: 18px;
+	text-align: center;
+	background: #333;
+	border-bottom: 2px solid #999;
+	height: 46px;
+	padding-top: 20px;
+}
+
+#logo a {
+	color: #FFF;
+	font-weight: bold;
+}
+
+#panel {
+	background: #333;
+	color: #FFF;
+	margin-top: 0px;
+	text-align: right;
+}
+
+#panel a {
+	color: #FFF;
+}
+
+.mobilebutton {
+	margin: 6px;
+	padding-top: 6px;
+	padding-bottom: 12px;
+}
+
+.mobilebutton a {
+	background: #023A61;
+	padding: 6px;
+	border-radius: 6px;
+}
+
+#content {
+	
+}

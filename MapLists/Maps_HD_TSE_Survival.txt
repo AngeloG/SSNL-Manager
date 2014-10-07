@@ -1,0 +1,7 @@
+Content/SeriousSamHD/Levels/Z5_Other/BearCity.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_BendOnSand.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_DeathFromAbove.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_DeepHole.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_GreenField.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_Icelander.wld
+Content/SeriousSamHD/Levels/Z5_Other/SV_KleerBase.wld
