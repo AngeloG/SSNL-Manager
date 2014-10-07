@@ -5,7 +5,7 @@ Old server manager source code for SeriousSam.nl, can be used to host and admin 
 
 This source code is provided as is and there will not be any support for it. I will accept helpful pull requests if any. (Although Serious Sam 4 support might be added in the future :cat:)
 
-![](http://4o4.nl/XmMpsrA.png)
+![](http://4o4.nl/201410086RnGU.png)
 
 ## Running the manager
 
